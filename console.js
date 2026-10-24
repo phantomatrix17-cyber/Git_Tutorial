@@ -1,2 +1,2 @@
 console.log("Console");
-console.log("Version 5");
+console.log("Version 6");
